@@ -1,0 +1,208 @@
+.form-control-header {
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 12px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 50%;
+    display: inline;
+}
+.form-control-bag {
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 12px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+
+    display: inline;
+}
+.form-bag-select {
+    width: 25%;
+}
+.form-bag-input {
+    width: 22%;
+}
+.hall_picker {
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 12px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 70px !important;
+    display: inline;
+}
+.carat_purity {
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 12px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 70px;
+    display: inline;
+}
+.form-group label {
+    width: 180px;
+}
+.radio-inline {
+    width: 100px !important;
+}
+.delete_button{
+    width: 60px !important;
+    margin: 5px;
+    padding: 2px;
+    text-decoration: blue;
+}
+#total_amount {
+    text-align: left;
+}
+
+.insert_button {
+    width:100px !important;
+    font-weight: bold;
+}
+.form-group input {
+    width: 300px;
+    display: inline;
+}
+.form-group textarea {
+    width: 300px;
+    display: inline;
+}
+.radio-inline {
+    width:100px;
+}
+.radiobutton {
+    width:20px !important;
+}
+.error {
+    padding-left:10px;
+}
+
+.form-control-rows {
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 12px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 90px !important;
+    display: inline;
+}
+
+.form-control-ornaments {
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 12px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 120px !important;
+    display: inline;
+}
+
+.border
+{
+    border: 2px solid;
+
+}
+.table-padding {
+    padding-left:5px;
+}
+.thead-center{
+    text-align:center;
+    height:75px;
+}
+.label_css {
+    width: 48%;
+    padding-bottom: 10px;
+}
+.test_css {
+    width:16%;
+    padding-bottom: 10px;
+}
+.carat_label {
+    width: 50px;
+    padding-bottom: 10px;
+}
+.loan_label {
+    width: 100px;
+    padding-bottom: 10px;
+}
+.color-style {
+    background: yellow;
+}
+.total_no_of_unit {
+    width:90px !important;
+}
+.margin-right {
+    margin-right: 10px;
+}
+
+.updateLogo {
+    margin-bottom: 15px;
+}
+
+.error-span {
+    margin-left: 15px;
+    color:red;
+    font-weight: bold;
+}
+.totalRow{
+    text-align: right;
+    padding-right: 10px;
+    font-size: 14px;
+    font-weight: bold;
+}
+h1 {
+    font-size:24px;
+}
+.page-header {
+    padding-bottom: 9px;
+    margin-top: 10px;
+    border-bottom: none;
+}
+.page-action-links {
+    margin-top: 10px !important;
+}
+.margin-bottom {
+    margin-bottom: 5px;
+}
+.heightArea {
+    height: 70px;
+}
+.verticalTop {
+    vertical-align: top;
+}
+/* this styles for multiple checkbox select */
+.heightExtra {
+    height: 120px !important;
+    width : 100% !important
+}
+.glyphicon-backward {
+    margin-right: 3px;
+}
+.navbar {
+    margin-bottom: 0px !important;
+}
